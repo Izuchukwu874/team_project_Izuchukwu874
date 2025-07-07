@@ -1,2 +1,4 @@
-"Initial proposed feature:-\n-user authentication\n- Data storage\n"
-"-Reporting module"
+-Initial proposed features:-
+-user authentication
+-Data storage
+-Reporting module
